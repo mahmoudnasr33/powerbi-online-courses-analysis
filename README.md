@@ -34,4 +34,25 @@ To analyze online courses performance including pricing strategy, subscriber beh
 
 <img width="1320" height="794" alt="price_analysis" src="https://github.com/user-attachments/assets/15ebaa49-9380-49db-b63c-96c2c1853079" />
 
+# Project Insights
+
+- Web Development dominates subscriber count.
+- Paid courses represent the majority of total revenue.
+- Average course price is $66.1 with a maximum of $200.
+- Course growth peaked around 2016 before declining.
+- Free courses drive engagement but paid courses dominate revenue contribution.
+
+## Final Conclusion
+
+The dashboard highlights key pricing strategies and subscriber behavior trends. 
+Web Development remains the strongest performing category, and pricing structure significantly impacts subscriber distribution. 
+The analysis supports data-driven decisions in pricing optimization and course development strategy.
+
+## Tools Used
+
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Interactive Navigation Design
 
