@@ -30,7 +30,7 @@ To analyze online courses performance including pricing strategy, subscriber beh
 
 <img width="1305" height="786" alt="overview" src="https://github.com/user-attachments/assets/029cfc42-f92e-4aee-b7ce-a6348c659227" />
 
-- - ## Peice-Analysis
+- - ## Price-Analysis
 
 <img width="1320" height="794" alt="price_analysis" src="https://github.com/user-attachments/assets/15ebaa49-9380-49db-b63c-96c2c1853079" />
 
